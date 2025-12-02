@@ -1,0 +1,5 @@
+{
+  "name": "VNDB Gemini Explorer",
+  "description": "An intelligent interface to explore the Visual Novel Database (VNDB) using natural language queries powered by Google Gemini. Get detailed information about VNs, characters, releases, and more, with results displayed in a visually rich sidebar.",
+  "requestFramePermissions": []
+}
